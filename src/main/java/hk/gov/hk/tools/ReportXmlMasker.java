@@ -4,20 +4,14 @@
 package hk.gov.hk.tools;
 
 import java.io.IOException;
-import java.io.InputStream;
 import java.lang.reflect.Constructor;
-import java.net.URI;
-import java.net.URL;
-import java.util.Properties;
 
 import org.apache.commons.configuration2.Configuration;
 import org.apache.commons.configuration2.FileBasedConfiguration;
 import org.apache.commons.configuration2.PropertiesConfiguration;
 import org.apache.commons.configuration2.builder.FileBasedConfigurationBuilder;
-import org.apache.commons.configuration2.builder.fluent.Configurations;
 import org.apache.commons.configuration2.builder.fluent.Parameters;
 import org.apache.commons.configuration2.ex.ConfigurationException;
-import org.apache.commons.configuration2.plist.PropertyListConfiguration;
 import org.apache.log4j.Logger;
 
 import com.ximpleware.AutoPilot;
@@ -29,8 +23,6 @@ import com.ximpleware.VTDNav;
 import com.ximpleware.XMLModifier;
 import com.ximpleware.XPathEvalException;
 import com.ximpleware.XPathParseException;
-
-
 
 /**
  * @author manlkm

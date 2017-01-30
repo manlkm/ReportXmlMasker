@@ -93,7 +93,7 @@
 	              <outputDirectory>${project.build.directory}/resources</outputDirectory>
 	              <resources>          
 	                <resource>
-	                  <directory>src/resources</directory>
+	                  <directory>src/main/resources</directory>
 	                  <filtering>true</filtering>
 	                </resource>
 	              </resources>              
