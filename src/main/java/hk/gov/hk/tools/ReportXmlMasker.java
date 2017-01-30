@@ -84,10 +84,7 @@ public class ReportXmlMasker {
              for(String tagPattern : tagPatterns){
             	 tagPattern = tagPattern.trim();
             	 
-            	 String stringReplacer = config.getString("pattern["+index+"].replacer");
-            	 if(stringReplacer == null){
-            		 stringReplacer = defaultStringReplacer;
-            	 }
+            	 String stringReplacer = config.getString("pattern["+index+"].replacer", defaultStringReplacer);
             	 
             	 try{
             		 Class<?> replacer = Class.forName(stringReplacer);
