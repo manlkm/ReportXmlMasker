@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<IRD>
+  <R6414>
+    <configuration>
+       <param0>true</param0>
+       <param1>4.0</param1>
+       <param2>asdf</param2>
+       <prn> Z343435</prn>
+       <BRN>GDFGDFG</BRN>
+       <clientEngName>FGHFGHGFHFGHG</clientEngName>
+       <clientChiName>陳大文</clientChiName>
+
+       <test><param3>true</param3></test>
+    </configuration>
+  </R6414>
+  <R6414>
+    <configuration>
+       <param0>true</param0>
+       <param1>4.0</param1>
+       <param2>asdf</param2>
+       <prn> Z343435</prn>
+       <BRN>GDFGDFG</BRN>
+       <clientEngName>FGHFGHGFHFGHG</clientEngName>
+       <clientChiName>陳大文</clientChiName>
+
+       <test><param3>true</param3></test>
+    </configuration>
+  </R6414>
+  <R6414>
+    <configuration>
+       <param0>true</param0>
+       <param1>4.0</param1>
+       <param2>asdf</param2>
+       <prn> Z343435</prn>
+       <BRN>GDFGDFG</BRN>
+       <clientEngName>FGHFGHGFHFGHG</clientEngName>
+       <clientChiName>陳大文</clientChiName>
+
+       <test><param3>true</param3></test>
+    </configuration>
+  </R6414>
+  <R6417>
+      <PRN> Z343435</PRN>
+  </R6417>
+  <R6414>
+    <configuration>
+       <param0>true</param0>
+       <param1>4.0</param1>
+       <param2>asdf</param2>
+       <prn> Z343435</prn>
+       <BRN>GDFGDFG</BRN>
+       <clientEngName>FGHFGHGFHFGHG</clientEngName>
+       <clientChiName>陳大文</clientChiName>
+
+       <test><param3>true</param3></test>
+    </configuration>
+  </R6414>
+</IRD>
