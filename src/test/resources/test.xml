@@ -4,9 +4,9 @@
   <R6414>
     <configuration>
        <param0>true</param0>
-       <param1>4.0</param1>
+       <param1>1</param1>
        <param2>asdf</param2>
-       <prn> Z343435</prn>
+       <prn> Z3434352</prn>
        <BRN>GDFGDFG</BRN>
        <clientEngName>FGHFGHGFHFGHG</clientEngName>
        <clientChiName>陳大文</clientChiName>
@@ -17,9 +17,9 @@
   <R6414>
     <configuration>
        <param0>true</param0>
-       <param1>4.0</param1>
+       <param1>2</param1>
        <param2>asdf</param2>
-       <prn> Z343435</prn>
+       <prn> A1234789</prn>
        <BRN>GDFGDFG</BRN>
        <clientEngName>FGHFGHGFHFGHG</clientEngName>
        <clientChiName>陳大文</clientChiName>
@@ -30,7 +30,7 @@
   <R6414>
     <configuration>
        <param0>true</param0>
-       <param1>4.0</param1>
+       <param1>3</param1>
        <param2>asdf</param2>
        <prn> Z343435</prn>
        <BRN>GDFGDFG</BRN>
@@ -46,7 +46,7 @@
   <R6414>
     <configuration>
        <param0>true</param0>
-       <param1>4.0</param1>
+       <param1>4</param1>
        <param2>asdf</param2>
        <prn> Z343435</prn>
        <BRN>GDFGDFG</BRN>
